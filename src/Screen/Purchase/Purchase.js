@@ -70,7 +70,7 @@ const Purchase = () => {
                             </div>
                             <div class="mt-5">
                                 <button className='nav-custom-btn' onClick={() => PurchaseForm()}>
-                                    POST ADD
+                                   PURCHASE
                                 </button>
                             </div>
 
